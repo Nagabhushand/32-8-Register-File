@@ -6,6 +6,9 @@
 
 ![Screenshot from 2023-10-26 16-36-39](https://github.com/Nagabhushand/32-8-Register-File/assets/106456845/e0f281c3-f4e5-40f4-af3f-caeafe583b40)
 
+![Screenshot 2023-10-26 180522](https://github.com/Nagabhushand/32-8-Register-File/assets/106456845/1542e72a-3a92-4b8e-b51f-54345e5276ff)
+
+
 
 
 
