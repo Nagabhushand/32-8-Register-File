@@ -22,5 +22,4 @@ intf_reg intf(clk,reset);
                    .ReadData2(ReadData2),
                    .reset(reset)
  );
-//assertion_cov acov(intf);
 endmodule
